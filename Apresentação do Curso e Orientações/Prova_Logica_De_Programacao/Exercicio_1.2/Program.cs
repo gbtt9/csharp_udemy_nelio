@@ -10,7 +10,14 @@ namespace Exercicio_1._2
     {
         static void Main(string[] args)
         {
+            double r = 3.14159;
 
+            Console.WriteLine("Escreva o valor do raio");
+            double raio = double.Parse(Console.ReadLine());
+
+            double area = r*(raio * raio);
+
+            Console.WriteLine(area.ToString("F4"));
         }
     }
 }

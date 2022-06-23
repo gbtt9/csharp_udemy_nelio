@@ -1,0 +1,8 @@
+C:\Users\Guilherme\Desktop\C#_Nelio\Apresentação do Curso e Orientações\Prova_Logica_De_Programacao\Exercicio_3.1\bin\Debug\Exercicio_3.1.exe.config
+C:\Users\Guilherme\Desktop\C#_Nelio\Apresentação do Curso e Orientações\Prova_Logica_De_Programacao\Exercicio_3.1\bin\Debug\Exercicio_3.1.exe
+C:\Users\Guilherme\Desktop\C#_Nelio\Apresentação do Curso e Orientações\Prova_Logica_De_Programacao\Exercicio_3.1\bin\Debug\Exercicio_3.1.pdb
+C:\Users\Guilherme\Desktop\C#_Nelio\Apresentação do Curso e Orientações\Prova_Logica_De_Programacao\Exercicio_3.1\obj\Debug\Exercicio_3.1.csproj.AssemblyReference.cache
+C:\Users\Guilherme\Desktop\C#_Nelio\Apresentação do Curso e Orientações\Prova_Logica_De_Programacao\Exercicio_3.1\obj\Debug\Exercicio_3.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Guilherme\Desktop\C#_Nelio\Apresentação do Curso e Orientações\Prova_Logica_De_Programacao\Exercicio_3.1\obj\Debug\Exercicio_3.1.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Desktop\C#_Nelio\Apresentação do Curso e Orientações\Prova_Logica_De_Programacao\Exercicio_3.1\obj\Debug\Exercicio_3.1.exe
+C:\Users\Guilherme\Desktop\C#_Nelio\Apresentação do Curso e Orientações\Prova_Logica_De_Programacao\Exercicio_3.1\obj\Debug\Exercicio_3.1.pdb
