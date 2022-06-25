@@ -1,0 +1,8 @@
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 2 Introdução a C# e .NET\Primeiro\Primeiro\bin\Debug\Primeiro.exe.config
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 2 Introdução a C# e .NET\Primeiro\Primeiro\bin\Debug\Primeiro.exe
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 2 Introdução a C# e .NET\Primeiro\Primeiro\bin\Debug\Primeiro.pdb
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 2 Introdução a C# e .NET\Primeiro\Primeiro\obj\Debug\Primeiro.csproj.AssemblyReference.cache
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 2 Introdução a C# e .NET\Primeiro\Primeiro\obj\Debug\Primeiro.csproj.SuggestedBindingRedirects.cache
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 2 Introdução a C# e .NET\Primeiro\Primeiro\obj\Debug\Primeiro.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 2 Introdução a C# e .NET\Primeiro\Primeiro\obj\Debug\Primeiro.exe
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 2 Introdução a C# e .NET\Primeiro\Primeiro\obj\Debug\Primeiro.pdb

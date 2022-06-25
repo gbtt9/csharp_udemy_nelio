@@ -1,0 +1,15 @@
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 3 Recapitulação de Lógica de Programação usando C#\Secao_3\Operadores_de_Atribuicao\bin\Debug\net6.0\Operadores_de_Atribuicao.exe
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 3 Recapitulação de Lógica de Programação usando C#\Secao_3\Operadores_de_Atribuicao\bin\Debug\net6.0\Operadores_de_Atribuicao.deps.json
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 3 Recapitulação de Lógica de Programação usando C#\Secao_3\Operadores_de_Atribuicao\bin\Debug\net6.0\Operadores_de_Atribuicao.runtimeconfig.json
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 3 Recapitulação de Lógica de Programação usando C#\Secao_3\Operadores_de_Atribuicao\bin\Debug\net6.0\Operadores_de_Atribuicao.dll
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 3 Recapitulação de Lógica de Programação usando C#\Secao_3\Operadores_de_Atribuicao\bin\Debug\net6.0\Operadores_de_Atribuicao.pdb
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 3 Recapitulação de Lógica de Programação usando C#\Secao_3\Operadores_de_Atribuicao\obj\Debug\net6.0\Operadores_de_Atribuicao.csproj.AssemblyReference.cache
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 3 Recapitulação de Lógica de Programação usando C#\Secao_3\Operadores_de_Atribuicao\obj\Debug\net6.0\Operadores_de_Atribuicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 3 Recapitulação de Lógica de Programação usando C#\Secao_3\Operadores_de_Atribuicao\obj\Debug\net6.0\Operadores_de_Atribuicao.AssemblyInfoInputs.cache
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 3 Recapitulação de Lógica de Programação usando C#\Secao_3\Operadores_de_Atribuicao\obj\Debug\net6.0\Operadores_de_Atribuicao.AssemblyInfo.cs
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 3 Recapitulação de Lógica de Programação usando C#\Secao_3\Operadores_de_Atribuicao\obj\Debug\net6.0\Operadores_de_Atribuicao.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 3 Recapitulação de Lógica de Programação usando C#\Secao_3\Operadores_de_Atribuicao\obj\Debug\net6.0\Operadores_de_Atribuicao.dll
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 3 Recapitulação de Lógica de Programação usando C#\Secao_3\Operadores_de_Atribuicao\obj\Debug\net6.0\refint\Operadores_de_Atribuicao.dll
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 3 Recapitulação de Lógica de Programação usando C#\Secao_3\Operadores_de_Atribuicao\obj\Debug\net6.0\Operadores_de_Atribuicao.pdb
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 3 Recapitulação de Lógica de Programação usando C#\Secao_3\Operadores_de_Atribuicao\obj\Debug\net6.0\Operadores_de_Atribuicao.genruntimeconfig.cache
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 3 Recapitulação de Lógica de Programação usando C#\Secao_3\Operadores_de_Atribuicao\obj\Debug\net6.0\ref\Operadores_de_Atribuicao.dll
