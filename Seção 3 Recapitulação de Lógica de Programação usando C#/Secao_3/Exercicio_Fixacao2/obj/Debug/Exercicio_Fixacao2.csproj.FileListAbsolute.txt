@@ -1,0 +1,8 @@
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 3 Recapitulação de Lógica de Programação usando C#\Secao_3\Exercicio_Fixacao2\bin\Debug\Exercicio_Fixacao2.exe.config
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 3 Recapitulação de Lógica de Programação usando C#\Secao_3\Exercicio_Fixacao2\bin\Debug\Exercicio_Fixacao2.exe
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 3 Recapitulação de Lógica de Programação usando C#\Secao_3\Exercicio_Fixacao2\bin\Debug\Exercicio_Fixacao2.pdb
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 3 Recapitulação de Lógica de Programação usando C#\Secao_3\Exercicio_Fixacao2\obj\Debug\Exercicio_Fixacao2.csproj.AssemblyReference.cache
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 3 Recapitulação de Lógica de Programação usando C#\Secao_3\Exercicio_Fixacao2\obj\Debug\Exercicio_Fixacao2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 3 Recapitulação de Lógica de Programação usando C#\Secao_3\Exercicio_Fixacao2\obj\Debug\Exercicio_Fixacao2.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 3 Recapitulação de Lógica de Programação usando C#\Secao_3\Exercicio_Fixacao2\obj\Debug\Exercicio_Fixacao2.exe
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 3 Recapitulação de Lógica de Programação usando C#\Secao_3\Exercicio_Fixacao2\obj\Debug\Exercicio_Fixacao2.pdb

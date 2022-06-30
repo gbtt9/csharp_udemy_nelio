@@ -1,0 +1,8 @@
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 3 Recapitulação de Lógica de Programação usando C#\Secao_3\Operadores_Aritmeticos\bin\Debug\Operadores_Aritmeticos.exe.config
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 3 Recapitulação de Lógica de Programação usando C#\Secao_3\Operadores_Aritmeticos\bin\Debug\Operadores_Aritmeticos.exe
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 3 Recapitulação de Lógica de Programação usando C#\Secao_3\Operadores_Aritmeticos\bin\Debug\Operadores_Aritmeticos.pdb
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 3 Recapitulação de Lógica de Programação usando C#\Secao_3\Operadores_Aritmeticos\obj\Debug\Operadores_Aritmeticos.csproj.AssemblyReference.cache
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 3 Recapitulação de Lógica de Programação usando C#\Secao_3\Operadores_Aritmeticos\obj\Debug\Operadores_Aritmeticos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 3 Recapitulação de Lógica de Programação usando C#\Secao_3\Operadores_Aritmeticos\obj\Debug\Operadores_Aritmeticos.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 3 Recapitulação de Lógica de Programação usando C#\Secao_3\Operadores_Aritmeticos\obj\Debug\Operadores_Aritmeticos.exe
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 3 Recapitulação de Lógica de Programação usando C#\Secao_3\Operadores_Aritmeticos\obj\Debug\Operadores_Aritmeticos.pdb
