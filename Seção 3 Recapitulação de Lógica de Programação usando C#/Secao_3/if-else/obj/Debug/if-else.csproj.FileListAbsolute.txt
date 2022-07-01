@@ -1,0 +1,8 @@
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 3 Recapitulação de Lógica de Programação usando C#\Secao_3\if-else\bin\Debug\if-else.exe.config
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 3 Recapitulação de Lógica de Programação usando C#\Secao_3\if-else\bin\Debug\if-else.exe
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 3 Recapitulação de Lógica de Programação usando C#\Secao_3\if-else\bin\Debug\if-else.pdb
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 3 Recapitulação de Lógica de Programação usando C#\Secao_3\if-else\obj\Debug\if-else.csproj.AssemblyReference.cache
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 3 Recapitulação de Lógica de Programação usando C#\Secao_3\if-else\obj\Debug\if-else.csproj.SuggestedBindingRedirects.cache
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 3 Recapitulação de Lógica de Programação usando C#\Secao_3\if-else\obj\Debug\if-else.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 3 Recapitulação de Lógica de Programação usando C#\Secao_3\if-else\obj\Debug\if-else.exe
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 3 Recapitulação de Lógica de Programação usando C#\Secao_3\if-else\obj\Debug\if-else.pdb

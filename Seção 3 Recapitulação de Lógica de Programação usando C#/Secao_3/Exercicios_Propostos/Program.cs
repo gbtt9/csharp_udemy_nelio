@@ -65,10 +65,6 @@ namespace Exercicios_Propostos
 
             Console.WriteLine("Valor a pagar: " + (total1 + total2).ToString("F2"));
             */
-
-
-
-
         }
     }
 }
