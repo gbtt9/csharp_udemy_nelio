@@ -1,0 +1,8 @@
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 3 Recapitulação de Lógica de Programação usando C#\Secao_3\While\bin\Debug\While.exe.config
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 3 Recapitulação de Lógica de Programação usando C#\Secao_3\While\bin\Debug\While.exe
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 3 Recapitulação de Lógica de Programação usando C#\Secao_3\While\bin\Debug\While.pdb
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 3 Recapitulação de Lógica de Programação usando C#\Secao_3\While\obj\Debug\While.csproj.AssemblyReference.cache
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 3 Recapitulação de Lógica de Programação usando C#\Secao_3\While\obj\Debug\While.csproj.SuggestedBindingRedirects.cache
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 3 Recapitulação de Lógica de Programação usando C#\Secao_3\While\obj\Debug\While.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 3 Recapitulação de Lógica de Programação usando C#\Secao_3\While\obj\Debug\While.exe
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 3 Recapitulação de Lógica de Programação usando C#\Secao_3\While\obj\Debug\While.pdb
