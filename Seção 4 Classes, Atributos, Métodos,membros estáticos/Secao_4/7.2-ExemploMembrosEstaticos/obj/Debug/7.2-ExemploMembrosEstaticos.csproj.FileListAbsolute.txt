@@ -1,0 +1,8 @@
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 4 Classes, Atributos, Métodos,membros estáticos\Secao_4\7.2-ExemploMembrosEstaticos\bin\Debug\7.2-ExemploMembrosEstaticos.exe.config
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 4 Classes, Atributos, Métodos,membros estáticos\Secao_4\7.2-ExemploMembrosEstaticos\bin\Debug\7.2-ExemploMembrosEstaticos.exe
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 4 Classes, Atributos, Métodos,membros estáticos\Secao_4\7.2-ExemploMembrosEstaticos\bin\Debug\7.2-ExemploMembrosEstaticos.pdb
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 4 Classes, Atributos, Métodos,membros estáticos\Secao_4\7.2-ExemploMembrosEstaticos\obj\Debug\7.2-ExemploMembrosEstaticos.csproj.AssemblyReference.cache
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 4 Classes, Atributos, Métodos,membros estáticos\Secao_4\7.2-ExemploMembrosEstaticos\obj\Debug\7.2-ExemploMembrosEstaticos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 4 Classes, Atributos, Métodos,membros estáticos\Secao_4\7.2-ExemploMembrosEstaticos\obj\Debug\7.2-ExemploMembrosEstaticos.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 4 Classes, Atributos, Métodos,membros estáticos\Secao_4\7.2-ExemploMembrosEstaticos\obj\Debug\7.2-ExemploMembrosEstaticos.exe
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 4 Classes, Atributos, Métodos,membros estáticos\Secao_4\7.2-ExemploMembrosEstaticos\obj\Debug\7.2-ExemploMembrosEstaticos.pdb

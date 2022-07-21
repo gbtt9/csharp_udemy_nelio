@@ -1,0 +1,8 @@
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 4 Classes, Atributos, Métodos,membros estáticos\Secao_4\5-EstoquePOO\bin\Debug\5-EstoquePOO.exe.config
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 4 Classes, Atributos, Métodos,membros estáticos\Secao_4\5-EstoquePOO\bin\Debug\5-EstoquePOO.exe
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 4 Classes, Atributos, Métodos,membros estáticos\Secao_4\5-EstoquePOO\bin\Debug\5-EstoquePOO.pdb
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 4 Classes, Atributos, Métodos,membros estáticos\Secao_4\5-EstoquePOO\obj\Debug\5-EstoquePOO.csproj.AssemblyReference.cache
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 4 Classes, Atributos, Métodos,membros estáticos\Secao_4\5-EstoquePOO\obj\Debug\5-EstoquePOO.csproj.SuggestedBindingRedirects.cache
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 4 Classes, Atributos, Métodos,membros estáticos\Secao_4\5-EstoquePOO\obj\Debug\5-EstoquePOO.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 4 Classes, Atributos, Métodos,membros estáticos\Secao_4\5-EstoquePOO\obj\Debug\5-EstoquePOO.exe
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 4 Classes, Atributos, Métodos,membros estáticos\Secao_4\5-EstoquePOO\obj\Debug\5-EstoquePOO.pdb

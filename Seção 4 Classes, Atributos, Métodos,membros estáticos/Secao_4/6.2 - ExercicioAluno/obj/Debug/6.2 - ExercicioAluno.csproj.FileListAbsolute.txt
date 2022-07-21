@@ -1,0 +1,8 @@
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 4 Classes, Atributos, Métodos,membros estáticos\Secao_4\6.2 - ExercicioAluno\bin\Debug\6.2 - ExercicioAluno.exe.config
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 4 Classes, Atributos, Métodos,membros estáticos\Secao_4\6.2 - ExercicioAluno\bin\Debug\6.2 - ExercicioAluno.exe
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 4 Classes, Atributos, Métodos,membros estáticos\Secao_4\6.2 - ExercicioAluno\bin\Debug\6.2 - ExercicioAluno.pdb
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 4 Classes, Atributos, Métodos,membros estáticos\Secao_4\6.2 - ExercicioAluno\obj\Debug\6.2 - ExercicioAluno.csproj.AssemblyReference.cache
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 4 Classes, Atributos, Métodos,membros estáticos\Secao_4\6.2 - ExercicioAluno\obj\Debug\6.2 - ExercicioAluno.csproj.SuggestedBindingRedirects.cache
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 4 Classes, Atributos, Métodos,membros estáticos\Secao_4\6.2 - ExercicioAluno\obj\Debug\6.2 - ExercicioAluno.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 4 Classes, Atributos, Métodos,membros estáticos\Secao_4\6.2 - ExercicioAluno\obj\Debug\6.2 - ExercicioAluno.exe
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 4 Classes, Atributos, Métodos,membros estáticos\Secao_4\6.2 - ExercicioAluno\obj\Debug\6.2 - ExercicioAluno.pdb

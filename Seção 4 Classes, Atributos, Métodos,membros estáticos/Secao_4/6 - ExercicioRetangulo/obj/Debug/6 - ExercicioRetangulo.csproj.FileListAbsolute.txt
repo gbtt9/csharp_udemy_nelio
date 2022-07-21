@@ -1,0 +1,8 @@
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 4 Classes, Atributos, Métodos,membros estáticos\Secao_4\6 - ExercicioRetangulo\bin\Debug\6 - ExercicioRetangulo.exe.config
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 4 Classes, Atributos, Métodos,membros estáticos\Secao_4\6 - ExercicioRetangulo\bin\Debug\6 - ExercicioRetangulo.exe
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 4 Classes, Atributos, Métodos,membros estáticos\Secao_4\6 - ExercicioRetangulo\bin\Debug\6 - ExercicioRetangulo.pdb
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 4 Classes, Atributos, Métodos,membros estáticos\Secao_4\6 - ExercicioRetangulo\obj\Debug\6 - ExercicioRetangulo.csproj.AssemblyReference.cache
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 4 Classes, Atributos, Métodos,membros estáticos\Secao_4\6 - ExercicioRetangulo\obj\Debug\6 - ExercicioRetangulo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 4 Classes, Atributos, Métodos,membros estáticos\Secao_4\6 - ExercicioRetangulo\obj\Debug\6 - ExercicioRetangulo.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 4 Classes, Atributos, Métodos,membros estáticos\Secao_4\6 - ExercicioRetangulo\obj\Debug\6 - ExercicioRetangulo.exe
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 4 Classes, Atributos, Métodos,membros estáticos\Secao_4\6 - ExercicioRetangulo\obj\Debug\6 - ExercicioRetangulo.pdb

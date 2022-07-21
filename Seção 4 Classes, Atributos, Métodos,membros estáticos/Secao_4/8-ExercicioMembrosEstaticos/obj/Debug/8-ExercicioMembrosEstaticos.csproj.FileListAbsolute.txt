@@ -1,0 +1,8 @@
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 4 Classes, Atributos, Métodos,membros estáticos\Secao_4\8-ExercicioMembrosEstaticos\bin\Debug\8-ExercicioMembrosEstaticos.exe.config
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 4 Classes, Atributos, Métodos,membros estáticos\Secao_4\8-ExercicioMembrosEstaticos\bin\Debug\8-ExercicioMembrosEstaticos.exe
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 4 Classes, Atributos, Métodos,membros estáticos\Secao_4\8-ExercicioMembrosEstaticos\bin\Debug\8-ExercicioMembrosEstaticos.pdb
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 4 Classes, Atributos, Métodos,membros estáticos\Secao_4\8-ExercicioMembrosEstaticos\obj\Debug\8-ExercicioMembrosEstaticos.csproj.AssemblyReference.cache
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 4 Classes, Atributos, Métodos,membros estáticos\Secao_4\8-ExercicioMembrosEstaticos\obj\Debug\8-ExercicioMembrosEstaticos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 4 Classes, Atributos, Métodos,membros estáticos\Secao_4\8-ExercicioMembrosEstaticos\obj\Debug\8-ExercicioMembrosEstaticos.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 4 Classes, Atributos, Métodos,membros estáticos\Secao_4\8-ExercicioMembrosEstaticos\obj\Debug\8-ExercicioMembrosEstaticos.exe
+C:\Users\Guilherme\Desktop\C#_Nelio\Seção 4 Classes, Atributos, Métodos,membros estáticos\Secao_4\8-ExercicioMembrosEstaticos\obj\Debug\8-ExercicioMembrosEstaticos.pdb
